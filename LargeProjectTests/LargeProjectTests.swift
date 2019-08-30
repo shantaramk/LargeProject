@@ -25,7 +25,7 @@ class LargeProjectTests: XCTestCase {
         
         let age = 0
         
-        XCTAssertTrue(age == 0, "Age can not be 0")
+        XCTAssertTrue(age > 0, "Age can not be 0")
     }
 
 }
