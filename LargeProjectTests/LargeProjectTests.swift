@@ -23,7 +23,7 @@ class LargeProjectTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         
-        let age = 0
+        let age = 12
         
         XCTAssertTrue(age > 0, "Age can not be 0")
     }
